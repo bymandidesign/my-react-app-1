@@ -9,8 +9,8 @@ module.exports = {
     {
       resolve: 'gatsby-source-contentful',
       options: {
-        spaceId: '0ge8xzmnbp2c',
-        accessToken: 'b3b275d4fda32085546b9100cb9ae7cb8796fdddd462fd42ba53c4c17bf2f99d'
+        spaceId: 'fclmvmax5z43',
+        accessToken: '6Z1h1K9x4R4TNByTLEIdkHqk2uygL8xmdwlz7sxVvqY'
       }
     }
   ],
