@@ -32,8 +32,8 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn to <br />design and code React apps</h1>
-        <p>Complete courses about the best tools and design systems. Prototype and build apps with React and Swift.</p>
+        <h1>User Experience is essential for digital transformation</h1>
+        <p>Get to know the UX Team, our process,  and some of our latest work at the DTC New Orleans Digital Transformation Center.</p>
         <Link to="/page-2/">Watch the video</Link>
         <div className="Logos">
           <img src='/images/logo-sketch.png' width="50" />
