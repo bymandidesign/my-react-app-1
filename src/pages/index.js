@@ -33,7 +33,7 @@ const IndexPage = () => (
     <div className="Hero">
       <div className="HeroGroup">
         <h1>User Experience is essential for digital transformation</h1>
-        <p>Get to know the UX Team, our process,  and some of our latest work at the DTC New Orleans Digital Transformation Center.</p>
+        <p>Get to know the UX Team, our process,< br/>  and some of our latest works from the < br/> New Orleans Digital Transformation Center.</p>
         <Link to="/page-2/">Watch the video</Link>
         <div className="Logos">
           <img src='/images/logo-sketch.png' width="50" />
